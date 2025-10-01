@@ -1,5 +1,8 @@
 # Cytomine front-end
 
+> [!WARNING]  
+> **Deprecated:** This repository is no longer maintained. Please see [cytomine/cytomine](https://github.com/cytomine/cytomine) for the latest version.
+
 ## Presentation
 
 The Cytomine-WebUI is the official front-end for Cytomine, developed in VueJS.
